@@ -1,7 +1,7 @@
 {
   "empList":[
-    {"id":1,"name":"Rabin"},
-    {"id":2,"name":"Saru"},
-    {"id":3,"name":"Subhash"}
+    {"id":1,"name":"Rabin","addr":"VA"},
+    {"id":2,"name":"Saru","addr":"MT"},
+    {"id":3,"name":"Subhash","addr":"OP"}
   ]
 }
