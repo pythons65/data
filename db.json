@@ -1,7 +1,6 @@
 {
   "empList":[
-    {"id":1,"name":"Rabin","addr":"VA"},
-    {"id":2,"name":"Saru","addr":"MT"},
-    {"id":3,"name":"Subhash","addr":"OP"}
+    {"id":1,"name":"Laptop","addr":"VA"},
+    {"id":2,"name":"Printer","addr":"MT"},
   ]
 }
