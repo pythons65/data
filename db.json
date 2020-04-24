@@ -1,6 +1,6 @@
 {
   "empList":[
-    {"id":1,"name":"Laptop","addr":"VA"},
-    {"id":2,"name":"Printer","addr":"MT"},
+    {"id":1,"name":"Laptop","img":"https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/laptops/TOSHIBA_Satellite_L840_1017/TOSHIBA_Satellite_L840_1017_L_1.jpg"},
+    {"id":2,"name":"Printer","img":"https://lh3.googleusercontent.com/proxy/V2es8cBLYBISZTB7fENaf1B-sOKhW9THvf3kQuQsf1pLMMkdvVkXtVdtZXMqV18f5yuAhZKhW9N7ECkgMpf5DzIiSACFfBUOLchVhQXhXGWUUC311qjd1egm-mT8"},
   ]
 }
